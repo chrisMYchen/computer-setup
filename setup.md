@@ -13,7 +13,7 @@
 11. spotify
 12. fnm: node manager
 13. install latest node
-14. chrome
+14. brave
 15. safari
 16. bat (isntead of cat)
 17. exa (instead of ls)
@@ -27,5 +27,7 @@
 25. yarn
 26. nodemon
 27. my zshrc and aliases r fked rn
-
+28. brew install ffmpeg gifsicle
+29. automator quick action for convert image to jpg, and movie to gif
+30. brew install fzf
 
