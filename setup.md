@@ -1,33 +1,39 @@
-## set up
 # set up
 1. download 1password
-2. make sure you have 2fa device
-3. clipy clipboard manager
-4. docker
-5. raycast
-6. workflowy
-7. terminal: warp
-8. homebrew
-9. oh-my-zsh
-10. vscode
-11. spotify
-12. fnm: node manager
-13. install latest node
-14. brave
-15. safari
-16. bat (isntead of cat)
-17. exa (instead of ls)
-18. aliases
-19. install git
-20. github credential manager
-21. eslint
-22. prettier
-23. dracula vscode theme
-24. adblocker ublockorigin for chrome
-25. yarn
-26. nodemon
-27. my zshrc and aliases r fked rn
-28. brew install ffmpeg gifsicle
-29. automator quick action for convert image to jpg, and movie to gif
-30. brew install fzf
-
+1. Remove random stuff from dock
+1. Auto light/dark mode on Mac
+1. Download 1password for Mac
+1. 1password for browser
+1. Keyboard settings —> remap caps lock to ctrl
+1. Keyboard repeat speed --> max
+1. Keyboard delay until repeat short
+1. Trackpad tracking speed --> fast - 1
+1. Make sure you have 2fa device
+1. clipy clipboard manager
+1. docker
+1. raycast --> replace spotlight cmd-space
+1. workflowy
+1. terminal: warp
+1. homebrew
+1. oh-my-zsh
+1. aliases via custom/aliases.zsh
+1. vscode
+1. spotify
+1. fnm: node manager
+1. install latest node
+1. brave
+1. safari
+1. bat (isntead of cat)
+1. exa (instead of ls)
+1. install git 
+1. github credential manager
+1. eslint
+1. prettier
+1. dracula vscode theme
+1. adblocker ublockorigin for chrome
+1. yarn
+1. nodemon
+1. my zshrc and aliases r fked rn
+1. brew install ffmpeg gifsicle
+1. automator quick actions
+1. brew install fzf
