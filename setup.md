@@ -23,6 +23,7 @@
 1. install latest node
 1. brave
 1. safari
+1. tmuxinator
 1. bat (isntead of cat)
 1. exa (instead of ls)
 1. install git 
