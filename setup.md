@@ -15,6 +15,8 @@
 1. workflowy
 1. terminal: warp
 1. homebrew
+1. stretchly
+1. tldr
 1. oh-my-zsh
 1. aliases via custom/aliases.zsh
 1. vscode
