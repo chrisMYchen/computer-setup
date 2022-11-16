@@ -28,6 +28,7 @@
 1. tmuxinator
 1. bat (isntead of cat)
 1. exa (instead of ls)
+1. diff-so-fancy (instead of git diff)
 1. install git 
 1. github credential manager
 1. eslint
