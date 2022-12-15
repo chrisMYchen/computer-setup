@@ -11,6 +11,7 @@
 1. Make sure you have 2fa device
 1. clipy clipboard manager
 1. docker
+1. lazydocker
 1. raycast --> replace spotlight cmd-space
 1. workflowy
 1. terminal: warp
