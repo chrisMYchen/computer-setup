@@ -32,6 +32,7 @@
 1. diff-so-fancy (instead of git diff)
 1. install git 
 1. github credential manager
+1. install graphite CLI https://graphite.dev/
 1. eslint
 1. prettier
 1. dracula vscode theme
